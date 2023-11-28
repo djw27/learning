@@ -68,15 +68,17 @@ I really enjoyed maths throughout school & university, but haven't kept the fund
 |[Coursera: Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)||
 |[Datacamp: Supervised Learning with scikit-learn](https://www.datacamp.com/courses/supervised-learning-with-scikit-learn)||
 |[Datacamp: Unsupervised Learning in Python](https://www.datacamp.com/courses/unsupervised-learning-in-python)||
+|[Fast.ai: Deep Learning for Coders](https://course.fast.ai/)||
 
 
 ### Artificial Intelligence
 
 |Resource|Progress|
 |---|---|
-|[Coursera: AI for Everyone](https://www.coursera.org/learn/ai-for-everyone)|⏳|
+|[Coursera: AI for Everyone](https://www.coursera.org/learn/ai-for-everyone)|✅|
 |[Coursera: IBM AI Engineering Professional Certificate](https://www.coursera.org/enroll/ai-engineer/paidmedia)||
 |[Coursera: IBM Applied AI Professional Certificate](https://www.coursera.org/professional-certificates/applied-artifical-intelligence-ibm-watson-ai)||
 |[Google: Introduction to Generative AI](https://www.cloudskillsboost.google/paths/118)||
 |[Google: Generative AI for Developers](https://www.cloudskillsboost.google/paths/183)||
 |[Edx: Introduction to AI with Python](https://www.edx.org/learn/artificial-intelligence/harvard-university-cs50-s-introduction-to-artificial-intelligence-with-python)||
+|[Microsoft: Generative AI for Beginners](https://microsoft.github.io/generative-ai-for-beginners/#/)||
