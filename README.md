@@ -12,7 +12,7 @@ I've been writing Python code for several years and consider myself to be fluent
 |[Datacamp: Writing Efficient Python Code](https://www.datacamp.com/courses/writing-efficient-python-code)|✅|
 |[Datacamp: Writing Functions in Python](https://www.datacamp.com/courses/writing-functions-in-python)|✅|
 |[Datacamp: Object-Oriented Programming in Python](https://www.datacamp.com/courses/object-oriented-programming-in-python)||
-|[Datacamp: Data Manipulation with Pandas](https://app.datacamp.com/learn/courses/data-manipulation-with-pandas)||
+|[Datacamp: Data Manipulation with Pandas](https://app.datacamp.com/learn/courses/data-manipulation-with-pandas)|⏳|
 
 
 ### Linux & Command Line
@@ -68,7 +68,7 @@ I really enjoyed maths throughout school & university, but haven't kept the fund
 |[Coursera: Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)||
 |[Datacamp: Supervised Learning with scikit-learn](https://www.datacamp.com/courses/supervised-learning-with-scikit-learn)||
 |[Datacamp: Unsupervised Learning in Python](https://www.datacamp.com/courses/unsupervised-learning-in-python)||
-|[Fast.ai: Deep Learning for Coders](https://course.fast.ai/)||
+|[Fast.ai: Deep Learning for Coders](https://course.fast.ai/)|⏳|
 
 
 ### Artificial Intelligence
