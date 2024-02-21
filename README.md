@@ -82,3 +82,15 @@ I really enjoyed maths throughout school & university, but haven't kept the fund
 |[Google: Generative AI for Developers](https://www.cloudskillsboost.google/paths/183)||
 |[Edx: Introduction to AI with Python](https://www.edx.org/learn/artificial-intelligence/harvard-university-cs50-s-introduction-to-artificial-intelligence-with-python)||
 |[Microsoft: Generative AI for Beginners](https://microsoft.github.io/generative-ai-for-beginners/#/)||
+
+## Soft Skills
+
+## Management & Leadership
+|Resource|Progress|
+|---|---|
+|[Become an Effective Software Engineering Manager](https://www.amazon.co.uk/Become-Effective-Software-Engineering-Manager/dp/1680507249)||
+|[44 engineering management lessons](https://www.defmacro.org/2014/10/03/engman.html)||
+|[An Elegant Puzzle: Systems of Engineering Management](https://www.amazon.co.uk/Elegant-Puzzle-Systems-Engineering-Management/dp/1732265186)||
+|[The Making of a Manager](https://www.amazon.co.uk/Elegant-Puzzle-Systems-Engineering-Management/dp/1732265186)||
+|[Writing an engineering strategy](https://lethain.com/eng-strategies/)||
+|[Think Like a CTO](https://www.manning.com/books/think-like-a-cto)||
