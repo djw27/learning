@@ -89,7 +89,7 @@ I really enjoyed maths throughout school & university, but haven't kept the fund
 |Resource|Progress|
 |---|---|
 |[Become an Effective Software Engineering Manager](https://www.amazon.co.uk/Become-Effective-Software-Engineering-Manager/dp/1680507249)||
-|[44 engineering management lessons](https://www.defmacro.org/2014/10/03/engman.html)||
+|[44 engineering management lessons](https://www.defmacro.org/2014/10/03/engman.html)|✅|
 |[An Elegant Puzzle: Systems of Engineering Management](https://www.amazon.co.uk/Elegant-Puzzle-Systems-Engineering-Management/dp/1732265186)||
 |[The Making of a Manager](https://www.amazon.co.uk/Elegant-Puzzle-Systems-Engineering-Management/dp/1732265186)||
 |[Writing an engineering strategy](https://lethain.com/eng-strategies/)||
